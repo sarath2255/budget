@@ -97,7 +97,7 @@ function expense(){
 
 
       htmlData=`
-      ${expDetail}:
+      ${expDetail}   <------------------------------------>
       ${exp}
       `
       list.innerHTML+=htmlData
